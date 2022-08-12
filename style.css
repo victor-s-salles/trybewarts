@@ -2,6 +2,13 @@
   margin: 5px;
 }
 
+body {
+  background-image: url('/24891332.jpg');
+  color: white;
+  background-size: cover;
+  text-shadow: 0.1em 0.1em 0.2em black;
+}
+
 .header {
   display: flex;
   background-color: rgb(50, 167, 145);
